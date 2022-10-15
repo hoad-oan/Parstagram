@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-!()["https://media0.giphy.com/media/xLtL6nPS283OBBdeNn/giphy.gif?cid=790b76116b8a7b3fe49102f23243620d068968fd0290359f&rid=giphy.gif&ct=g"]
+!()[https://media0.giphy.com/media/xLtL6nPS283OBBdeNn/giphy.gif?cid=790b76116b8a7b3fe49102f23243620d068968fd0290359f&rid=giphy.gif&ct=g]
