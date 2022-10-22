@@ -22,6 +22,7 @@
 		E40BF58528F947A000F42064 /* ParsetagramUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E40BF58428F947A000F42064 /* ParsetagramUITestsLaunchTests.swift */; };
 		E40BF59228F94CDF00F42064 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E40BF59128F94CDF00F42064 /* LoginViewController.swift */; };
 		E40BF59428F94CF100F42064 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E40BF59328F94CF100F42064 /* FeedViewController.swift */; };
+		E44F2EA12903AF8F00DD6D0B /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E44F2EA02903AF8F00DD6D0B /* CommentCell.swift */; };
 		E4D05A0C28FA6F1800E58A6E /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4D05A0B28FA6F1800E58A6E /* CameraViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -68,6 +69,7 @@
 		E40BF58428F947A000F42064 /* ParsetagramUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParsetagramUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		E40BF59128F94CDF00F42064 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		E40BF59328F94CF100F42064 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
+		E44F2EA02903AF8F00DD6D0B /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		E4D05A0B28FA6F1800E58A6E /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -145,6 +147,7 @@
 				E40BF56F28F947A000F42064 /* Info.plist */,
 				E40BF56728F9479D00F42064 /* Parsetagram.xcdatamodeld */,
 				E405197E28FA8585000B1724 /* PostCell.swift */,
+				E44F2EA02903AF8F00DD6D0B /* CommentCell.swift */,
 			);
 			path = Parsetagram;
 			sourceTree = "<group>";
@@ -425,6 +428,7 @@
 				E40BF56128F9479D00F42064 /* SceneDelegate.swift in Sources */,
 				E40BF56928F9479D00F42064 /* Parsetagram.xcdatamodeld in Sources */,
 				E4D05A0C28FA6F1800E58A6E /* CameraViewController.swift in Sources */,
+				E44F2EA12903AF8F00DD6D0B /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
